@@ -14,3 +14,4 @@ def sumatoria (A, B, C):
 
 
 sumatoria (A, B, C)
+print (sumatoria(A,B,C))
